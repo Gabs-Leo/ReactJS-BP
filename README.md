@@ -11,5 +11,5 @@ npm install --global yarn
 ## Criando o Projeto
 - Para criar um projeto React, utilize o comando:
 ```shell
-yarn create react-app WebsiteBC --template typescript
+yarn create react-app nomeprojeto --template typescript
 ```
